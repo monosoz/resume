@@ -204,7 +204,7 @@
 @media print {
   .no-print { display: none !important }
   .print-only { display: block !important }
-  body { font-size: 12px; line-height: 0.9rem; }
+  body { font-size: 12px; line-height: 1rem; }
   .page-header { padding: 1rem 0 .2rem;
     .header-name {
       @include sans_bold;
