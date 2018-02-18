@@ -1,19 +1,26 @@
 # Jobs
 # Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+- company: Betatest Solutions Pvt Ltd <small>Bengaluru</small>
+  position: Software Engineer
+  duration: June, 2017 &mdash; Present
+  summary: Working with a range of clients on web applications developing, deploying and maintaining new products, adding realtime features to existing products, and providing technical support. <ul class="resume-item-list"><li>Working with design team to translate the UI/UX design wireframes to actual code. Ensuring responsive design and cross browser compatibility.</li><li>Integrating web APIs for services like Google Maps, AWS, MailChimp, Nimble CRM, Infusionsoft, etc.</li><li>Working with stack including, but not limited to, React, jQuery, Bootstrap, Wordpress, Ruby on Rails, and MySQL.</li></ul>
 
 # Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Monosoz <small>New Delhi</small>
+  position: Co-Founder & CTO
+  duration:  Nov, 2015 &mdash; July, 2017
+  summary: Developed and maintained e-commerce platform (online food ordering) for Monosoz using PHP(Laravel). As the sole developer took it from the first line of code to customers and revenue. <ul class="resume-item-list"><li>Responsible for all aspects of architecture, development, test strategy and deployment.</li><li>Designed and built Data Models and Back-end architecture by building on top of early open source packages to implement our business logic.</li><li>Used tools like Bootstrap, jQuery, Vue.js, AJAX, MySQL, etc. to create a responsive and  interactive web interface.</li><li>Worked with several web APIs like Google Maps, OAuth2.0, PayU, Pusher, MailChimp, etc. to deliver features like Online Payment, SMS, Email and Push Notifications, Order Tracking, etc.</li></ul>
 
 
 # Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+- company: Freelance Web Development
+  position: Web Developer
+  duration:   Aug, 2014  &mdash; Oct, 2015
+  summary: As a freelance web developer I was building CMS solutions for clients using Wordpress. As a full stack developer my responsibilities included setting up hosting, domains, databases and delivering an easy to use custom Wordpress theme with custom Templates and Responsive layouts.
+
+
+# volunteer
+- company: BloodConnect <small>New Delhi</small>
+  position: Core Team Member
+  duration:   April, 2011  &mdash; Oct, 2012
+  summary: Managed BloodConnect's social media accounts and worked on increasing web presence and engagement.
