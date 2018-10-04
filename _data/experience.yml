@@ -1,4 +1,10 @@
 # Jobs
+# GlowRoad
+- company: GlowRoad.com <small>Bengaluru</small>
+  position: Senior Software Engineer
+  duration: April, 2018 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Ported Java Web Application to ReactJS.</li><li>Dynamic pages using Handlebars and jQuery with Java backend.</li><li>Page load optimization.</li></ul>
+
 # Giraffe Tools
 - company: Giraffe Tools <small>Open Source Software</small>
   position: Contributor
