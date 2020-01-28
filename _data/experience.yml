@@ -1,14 +1,20 @@
 # Jobs
+# Cuspera
+- company: Cuspera <small>Bengaluru</small>
+  position: Front-End Developer
+  duration: November, 2018 &mdash; Present
+  summary:
+
 # GlowRoad
-- company: GlowRoad.com <small>Bengaluru</small>
+- company: GlowRoad <small>Bengaluru</small>
   position: Senior Software Engineer
-  duration: April, 2018 &mdash; Present
+  duration: April, 2018 &mdash; October, 2018
   summary: <ul class="resume-item-list"><li>Ported Java Web Application to ReactJS.</li><li>Dynamic pages using Handlebars and jQuery with Java backend.</li><li>Page load optimization.</li></ul>
 
 # Giraffe Tools
 - company: Giraffe Tools <small>Open Source Software</small>
   position: Contributor
-  duration: April, 2018 &mdash; Present
+  duration: April, 2018 &mdash; July, 2018
   summary: Tools for Graphical Interface for Reproducible Analysis oF workFlow Experiments, Giraffe Tools are applications that make it easier to analyse all kinds of data! <ul class="resume-item-list"><li>Django backend with React at client side.</li><li>Fixed code sourced from parent project and implemented new features.</li><li>Worked on Porcupine Tool to remove jsPlumb dependency.</li></ul>
 
 # Betatest
@@ -35,4 +41,4 @@
 - company: BloodConnect <small>New Delhi</small>
   position: Core Team Member
   duration:   April, 2011  &mdash; Oct, 2012
-  summary: Managed BloodConnect's social media accounts and worked on increasing web presence and engagement.
+  summary: Managed social media accounts to increase web presence and engagement.
